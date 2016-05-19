@@ -1,5 +1,5 @@
 # Secure Solutions in Azure
-Virtual Networks provide a layer of isolation for your compute and data resources in the cloud and are can be carved up into subnets like an on-premises network.  However, Azure Virtual Networks don't have to be isolated to cloud-only deployments.  In fact, it is common for today's Solution Architect to have to bridge the gap between on-premises and cloud environments.  See how you can extend an on-premises network to Azure Virtual Networks using point-to-site, site-to-site, and private connections using ExpressRoute.  Understand scenarios appropriate for each solution.  Then, see how to conquer multi-site networking topologies and how network security groups and access control lists can be used to further protect resources.  Finally, understand how to leverage the load-balancing features of Azure (internal and external) to achieve highly available architectures.
+Raise your hand if you're a security expert!  Most would not raise their hands, even if they were a "security expert".  Today's online world is extremely hostile.  So, naturally, questions about security and compliance are front-and-center for all customers.  In this session you will learn about steps Microsoft takes to insure a secure and compliant platform for you to architect and build your solutions on.  You will learn about the resources available to you to address complex security and compliance questions.  Most of all, you will learn that you (and your customer) share in this responsibility of securing your solution.  Where does Microsoft's responsibility for security end and where does your responsibility begin?  What are some specific actions you can take to promote a secure solution and instill confidence with your customers that their solution is secure?  Find out the answers to these questions in this session.
 ##Presentation
 Download the [PowerPoint](https://github.com/GSIAzureCOE/Secure-Solutions/blob/master/todo.pptx).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
@@ -7,7 +7,7 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/building-secure-solutions-in-azure/todo.mp4).
 
 ## Demos
-1. Azure Rate Card API
+1. Demo 1
 [[source code](https://github.com/GSIAzureCOE/Secure-Solutions/blob/master/todo)]
 [[demo script](https://github.com/GSIAzureCOE/Secure-Solutions/blob/master/todo.docx)]
 [[video](https://gsiazurecoecontent.blob.core.windows.net/building-secure-solutions-in-azure/todo.mp4)]
