@@ -4,10 +4,33 @@ Raise your hand if you're a security expert!  Most would not raise their hands, 
 Download the [PowerPoint](https://github.com/GSIAzureCOE/Secure-Solutions/blob/master/todo.pptx).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
-Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/building-secure-solutions-in-azure/todo.mp4).
-
 ## Demos
-1. Demo 1
-[[source code](https://github.com/GSIAzureCOE/Secure-Solutions/blob/master/todo)]
-[[demo script](https://github.com/GSIAzureCOE/Secure-Solutions/blob/master/todo.docx)]
-[[video](https://gsiazurecoecontent.blob.core.windows.net/building-secure-solutions-in-azure/todo.mp4)]
+
+* Secure Secrets
+[[Demo script & source code](./Demo-SecureSecrets/)]
+[[demo video](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/0_secure_secrets.mp4)]
+
+* SQL Database V12 Security Enhancements
+[[Demo script & source code](./Demo-SQLSecurity/)]
+[[demo video](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/1_SQL_Security.mp4)]
+
+* Azure Security Center
+[[Demo script & source code](./Demo-AzureSecurityCenter/)]
+[[demo video](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/2_security_center.mp4)]
+
+## Session objectives
+
+- Understand Azure platform security features
+- Discuss how Data Security, Control and Access applies on Microsoft Azure platfrom
+- Understand Microsoft Azure Privacy, Control, Transparency and Compliance
+
+## Session Prerequisits
+
+- None
+
+## Azure Services Covered
+
+- [[Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)]
+- [[SQL Server V12 security features](https://azure.microsoft.com/en-in/documentation/articles/sql-database-v12-whats-new/)]
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
