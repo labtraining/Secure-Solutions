@@ -17,7 +17,7 @@ This demonstration requires the following:
 
 _Estimated Time: 2 minutes_
 
-1. Open Windows Explorer and navigate to the **Secure-Solutions/Demo-SecureSecrets** folder.
+1. Open Windows Explorer and navigate to the **SecureSecrets** folder.
     
 2. Open the **Demo-SecureSecrets.sln** file in visual studio.
 
