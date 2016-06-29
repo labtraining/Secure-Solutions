@@ -7,17 +7,18 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 
 ## Demos
 
-* Secure Secrets
-[[Demo script & source code](./Demo-SecureSecrets/)]
-[[demo video](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/0_secure_secrets.mp4)]
+* [Demo 1 - Using Secure Secrets](./Demo%201%20-%20Using%20Secure%20Secrets)
+[Demo script](./Demo%201%20-%20Using%20Secure%20Secrets/Readme.md)
+[Source Code](./Demo%201%20-%20Using%20Secure%20Secrets/SecureSecrets)
+[Video TODO](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/0_secure_secrets.mp4)
 
-* SQL Database V12 Security Enhancements
-[[Demo script & source code](./Demo-SQLSecurity/)]
-[[demo video](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/1_SQL_Security.mp4)]
+* [Demo 2 - Azure Security Center & SQL Database Security](./Demo%202%20-%20Security%20Center%20and%20SQL%20Security)
+[Demo script](./Demo%202%20-%20Security%20Center%20and%20SQL%20Security/Readme.md)
+[Video TODO](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/1_SQL_Security.mp4)
 
-* Azure Security Center
-[[Demo script & source code](./Demo-AzureSecurityCenter/)]
-[[demo video](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/2_security_center.mp4)]
+* [Demo 3 - Microsoft Trust Center](./Demo%203%20-%20Trust%20Center)
+[[Demo script](./Demo%203%20-%20Trust%20Center/Readme.md)
+[[Video TODO](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/2_security_center.mp4)]
 
 ## Session objectives
 
