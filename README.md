@@ -31,8 +31,10 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 
 ## Azure Services Covered
 
-- [[Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)]
-- [[SQL Server V12 security features](https://azure.microsoft.com/en-in/documentation/articles/sql-database-v12-whats-new/)]
+- [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
+- [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/)
+- [SQL Server V12 security features](https://azure.microsoft.com/en-in/documentation/articles/sql-database-v12-whats-new/)
+- [Azure Trust Center](https://azure.microsoft.com/en-us/support/trust-center/)
 
 ****
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
