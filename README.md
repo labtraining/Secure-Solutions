@@ -5,7 +5,6 @@ Raise your hand if you're a security expert! Most would not raise their hands, e
 Download the [PowerPoint](./Building%20Secure%20Solutions%20in%20the%20Cloud.pptx?raw=1).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
-<<<<<<< HEAD
 ## Demos
 
 * Secure Secrets
@@ -35,30 +34,5 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 - [[Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)]
 - [[SQL Server V12 security features](https://azure.microsoft.com/en-in/documentation/articles/sql-database-v12-whats-new/)]
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-=======
-Watch the [video TODO](https://gsiazurecoecontent.blob.core.windows.net/storage/todo.mp4).
-
-## Demos
-* [Demo 1 - Security TODO](./Demo%201%20-%20Storage%20Introduction)
-[[demo script](./Demo%201%20-%20Storage%20Introduction/Readme.md)]
-[[video TODO](https://gsiazurecoecontent.blob.core.windows.net/storage/todo.mp4)]
-
-## Session objectives
-Discuss Security in Azure storage fundamentals and the importance of Storage choices
-* Security Features of Azure Platform
-* Data Security, Control and Access
-* Understand Microsoft Azure Privacy, Control, Transparency and Compliance
-
-## Session Prerequisites
-* An Azure Subscription
-
-## Azure Services Covered
-* [Azure Portal] (https://azure.microsoft.com/en-us/features/azure-portal/)
-* [Azure Key Vault] (https://azure.microsoft.com/en-us/services/key-vault/)
-* [Azure Security Center] (https://azure.microsoft.com/en-us/services/security-center/)
-
 ****
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or 
-
->>>>>>> origin/June-2016
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
