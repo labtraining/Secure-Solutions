@@ -8,17 +8,14 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 ## Demos
 
 * [Using Secure Secrets](./Demo%201%20-%20Using%20Secure%20Secrets)
-[[Demo script](./Demo%201%20-%20Using%20Secure%20Secrets/Readme.md)]
+[[Demo script](./Demo%201%20-%20Using%20Secure%20Secrets/README.md)]
 [[Source Code](./Demo%201%20-%20Using%20Secure%20Secrets/SecureSecrets)]
-[[Video TODO](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/0_secure_secrets.mp4)]
 
 * [Azure Security Center & SQL Database Security](./Demo%202%20-%20Security%20Center%20and%20SQL%20Security)
-[[Demo script](./Demo%202%20-%20Security%20Center%20and%20SQL%20Security/Readme.md)]
-[[Video TODO](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/1_SQL_Security.mp4)]
+[[Demo script](./Demo%202%20-%20Security%20Center%20and%20SQL%20Security/README.md)]
 
 * [Microsoft Trust Center](./Demo%203%20-%20Trust%20Center)
-[[Demo script](./Demo%203%20-%20Trust%20Center/Readme.md)]
-[[Video TODO](https://gsiazurecoecontent.blob.core.windows.net/Secure-Solutions/2_security_center.mp4)]
+[[Demo script](./Demo%203%20-%20Trust%20Center/README.md)]
 
 ## Session objectives
 
