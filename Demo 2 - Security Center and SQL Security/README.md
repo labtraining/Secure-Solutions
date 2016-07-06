@@ -16,7 +16,7 @@ This demonstration requires the following:
 
 _Estimated Time: 5 minutes_
 
-####Step1: Create SQL V12 database####
+This should be done in good time before presentation, such that Security Center can pickup any changes (recommend 24 hours)
 
 1. Visit the Azure Portal at https://portal.azure.com and sign-in with your Azure Administrator or Contributor account.
     
@@ -24,22 +24,13 @@ _Estimated Time: 5 minutes_
 
     <img src="./media/setup-01.png" style="max-width: 500px" />
     
-3. Provide database name, select Server, Create a new server and provide server details like server name, server admin login, password, confirm password, location. Select ìYesî when asked Create V12 server. Click OK.
+3. Provide database name, select Server, Create a new server and provide server details like server name, server admin login, password, confirm password, location. Select ‚ÄúYes‚Äù when asked Create V12 server. Click OK.
 
     <img src="./media/setup-02.png" style="max-width: 500px" />
     
 4. Once created, click on newly created SQL Database.
 
-####Step2: Permissions####
-    
-1. To sign up for the preview and to configure TDE through the Azure portal, you must be connected as the Azure Owner, Contributor, or SQL Security Manager.
 
-2. To configure TDE by using Transact-SQL requires the following:
-
-    a. To create the database encryption key, you must be a SQL Database administrator or you must be a member of the dbmanager role in the master database and have the CONTROL permission on the database.
-
-    b. To execute the ALTER DATABASE statement with the SET option only requires membership in the dbmanager role.
-    
 ##Demo Steps
 _Estimated Time: 10 minutes_
 
@@ -94,10 +85,4 @@ _Estimated Time: 10 minutes_
 ##Cleanup
 _Estimated Time: 5 minutes_
 
-1. Open Windows Explorer and navigate to the **Secure-Solutions/Demo-SQLSecurity** folder.
-
-2. Right-click on **Cleanup-Demo.ps1** and select **Run with PowerShell**.  _Note: You can run the script from the PowerShell ISE if you prefer. Either way will work the same._
-
-    The script requires one parameter which is your Azure Subscription ID.  _Note: If you changed the resource group name when you ran the Deploy-Demo script during setup, then make sure you supply the new resource group name you used.  Otherwise, the default resource group name is assumed._  
-
-    <img src="./media/clean-01.png" style="max-width: 500px" />
+* Remove the ResourceGroup created in Preparation Step 3, and the SQL Server instance. Alternatively, reset the configuration changes for Auditing, Data Masking, and TDE.
