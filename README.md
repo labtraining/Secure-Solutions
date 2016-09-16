@@ -13,6 +13,7 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 
 * [Azure Security Center & SQL Database Security](./Demo%202%20-%20Security%20Center%20and%20SQL%20Security)
 [[Demo script](./Demo%202%20-%20Security%20Center%20and%20SQL%20Security/README.md)]
+[[Demo video](https://azurecatgsicontent.blob.core.windows.net/building-secure-solutions-in-azure/SQLSecurity.mp4)]
 
 * [Microsoft Trust Center](./Demo%203%20-%20Trust%20Center)
 [[Demo script](./Demo%203%20-%20Trust%20Center/README.md)]
