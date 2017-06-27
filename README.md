@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # Secure Solutions in Azure
 Raise your hand if you're a security expert! Most would not raise their hands, even if they were a "security expert". Today's online world is extremely hostile. So, naturally, questions about security and compliance are front-and-center for all customers. In this session you will learn about steps Microsoft takes to insure a secure and compliant platform for you to architect and build your solutions on. You will learn about the resources available to you to address complex security and compliance questions. Most of all, you will learn that you (and your customer) share in this responsibility of securing your solution. Where does Microsoft's responsibility for security end and where does your responsibility begin? What are some specific actions you can take to promote a secure solution and instill confidence with your customers that their solution is secure? Find out the answers to these questions in this session.
 
